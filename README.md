@@ -1,2 +1,37 @@
-# Calculadora-by-vine
-Um pequeno projeto em Html e css (calculadora) 
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Calculadora</title>
+</head>
+<body> 
+    <h1>Calculadora </h1> 
+    <div class="calculator">
+        <input type="text" disabled id ="display">
+        <div class="box-buttons">
+<button>C</button>
+<button>&lt;</button>
+<button>/ </button>
+<button>*</button>
+<button>7</button>
+<button>8</button>
+        <button>9</button>
+    <button>-</button>
+    <button>4</button>
+    <button>5</button>
+<button>6</button>    
+<button>+</button>
+<button>1</button>
+<button>2</button>
+<button>3</button>
+<button class="btn-zero">0</button>
+<button>.</button>
+<button class="btn-igual">=</button>
+</div>
+    </div>
+    <h6>Projeto desenvolvido pelo vine !!! </h6>
+    
+</body>
+</html>
